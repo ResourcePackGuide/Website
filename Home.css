@@ -141,30 +141,6 @@
   margin: 20px auto 0;
 }
 
-.u-section-2 .u-container-layout-3 {
-  padding: 30px 20px;
-}
-
-.u-section-2 .u-image-3 {
-  height: 231px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-text-3 {
-  margin-top: 17px;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-metadata-3 {
-  font-size: 0.875rem;
-  margin: 15px auto 0;
-}
-
-.u-section-2 .u-btn-3 {
-  margin: 20px auto 0;
-}
-
 .u-section-2 .u-gallery-nav-1 {
   position: absolute;
   left: 10px;
@@ -210,10 +186,5 @@
   .u-section-2 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
-  }
-
-  .u-section-2 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 }
